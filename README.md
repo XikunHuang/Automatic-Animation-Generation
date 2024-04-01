@@ -23,6 +23,7 @@
 ## Tutorial
 1. [Denoising Diffusion Models: A Generative Learning Big Bang](https://cvpr.thecvf.com/virtual/2023/tutorial/18546)
 2. [Latent Diffusion Models: Is the Generative AI Revolution Happening in Latent Space?](https://neurips2023-ldm-tutorial.github.io/)
+3. [Video Diffusion Models](https://sites.google.com/view/showlab/tutorial)
 
 ## Software
 1. [Stable Video Diffusion](https://huggingface.co/spaces/multimodalart/stable-video-diffusion)：Image to video.
