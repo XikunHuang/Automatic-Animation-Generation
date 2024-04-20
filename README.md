@@ -28,3 +28,6 @@
 ## Software
 1. [Stable Video Diffusion](https://huggingface.co/spaces/multimodalart/stable-video-diffusion)：Image to video.
 2. [Model Scope](https://huggingface.co/spaces/ali-vilab/modelscope-text-to-video-synthesis): Text to video.
+
+## Misc
+1. Lilian Weng's blog on [Diffusion Models for Video Generation](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
